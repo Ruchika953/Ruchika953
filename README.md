@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Ruchika953
 - 👀 I’m interested in hacking 
-- 🌱 I’m currently learning hacking passwords
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 🌱 I’m currently learning bruteforce attack
 
-don't reach me 
 
 
 <!---
